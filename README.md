@@ -9,7 +9,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/piyush-patil-66338b252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwasjoshi2019/" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/cursed_geek](https://leetcode.com/u/piyushpatil0009/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cursed_geek" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/piyushpatil0009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cursed_geek" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
